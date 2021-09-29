@@ -1,7 +1,7 @@
 name: lucid_components
 description: A new Flutter package project.
-version: 0.0.1
-homepage: will_add
+version: 0.0.1-nullsafety
+homepage: https://github.com/stivo-m/lucid_components
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
